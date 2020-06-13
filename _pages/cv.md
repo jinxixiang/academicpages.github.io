@@ -55,6 +55,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Selected Awards
 ======
-* Currently signed in to 43 different slack teams
+* In his undergraduate study, he received the National Scholarship (5 %, in 2013), LeiJun Scholarship (1 %, in 2015), the second prize on 2015 National Electronics Design Contest, the second prize on 2015 Mathematics Modeling,  CSC Scholarship for undergraduate (5 %, in 2016). He was awarded excellent graduate (top 1 %) of Hubei Province in 2016. During his graduate study, he received the Hengrun Scholarship from Tsinghua University. In 2019, he received a scholarship from the CSC to visit the University of Edinburgh. 
