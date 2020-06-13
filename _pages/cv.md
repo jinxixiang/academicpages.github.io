@@ -19,7 +19,7 @@ Education
 
 Selected Awards
 ======
-* 2020 Student Travel Award, IEEE International Instrumentation and Measurement Technology Conference, Dubrovnik, Croatia.
+* 2020 Student Travel Award, IEEE International Instrumentation and Measurement Technology Conference.
 * 2019 Hengrun Scholarship, Tsinghua University.
 * 2019 Joint Ph.D. scholarship, China Scholarship Council.
 * 2015 LeiJun Scholarship (1 %), Wuhan University.
