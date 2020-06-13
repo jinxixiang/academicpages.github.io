@@ -33,7 +33,7 @@ Selected Awards
 Core Courses
 =====
 * Undergraduate (GPA: 3.73/4.0, Ranking: 1/49) Advanced Mathematics, Linear Algebra, Signal and Linear System, Stochastic Mathematics, Measuring and Control Circuit, Principle of Automation Control, Modeling and Simulation, Bio-instrumentation.
-* Graduate (GPA: 3.0) Advanced Numerical, Applied Stochastic Processes, Modern Method for Optimal Calculation, System Identification, Modern Sensing Technology, Machine Learning, Test and Measurement Technology, Introduction to Modern Control and Methods.
+* Graduate (GPA: 3.0) Advanced Numerical Analysis, Applied Stochastic Processes, Modern Method for Optimal Calculation, System Identification, Modern Sensing Technology, Machine Learning, Test and Measurement Technology, Introduction to Modern Control and Methods.
 
 Skills
 ======
