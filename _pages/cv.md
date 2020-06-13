@@ -11,10 +11,23 @@ redirect_from:
 
 Education
 ======
-* Bachelor's degree, [Wuhan University](https://en.whu.edu.cn/). / Sept. 2012 - June 2016
-* Exchange student, [University College Dublin](https://www.ucd.ie/), Ireland. / Jan.-May, 2016 (Sponsored by China Scholarship Council)
-* Visiting student, [University of Edinburgh](https://www.ed.ac.uk/), UK. / Sept. 2019 - Sept. 2020 (Sponsored by China Scholarship Council)
 * Ph.D. in Instrumentation Science, [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm). / Sept. 2016-June 2021 (expected)
+* Visiting student, [University of Edinburgh](https://www.ed.ac.uk/), UK. / Sept. 2019 - Sept. 2020 (Sponsored by China Scholarship Council)
+* Exchange student, [University College Dublin](https://www.ucd.ie/), Ireland. / Jan.-May, 2016 (Sponsored by China Scholarship Council)
+* Bachelor's degree, [Wuhan University](https://en.whu.edu.cn/). / Sept. 2012 - June 2016
+
+
+Selected Awards
+======
+* 2020 Student Travel Award, IEEE International Instrumentation and Measurement Technology Conference, Dubrovnik, Croatia.
+* 2019 Hengrun Scholarship, Tsinghua University.
+* 2019 Joint Ph.D. scholarship, China Scholarship Council.
+* 2015 LeiJun Scholarship (1 %), Wuhan University.
+* 2015 Outstanding Undergraduate Scholarship, China Scholarship Council.
+* 2015 The National Electronics Design Contest, Second Prize, Ministry of Education of the P. R. of China.
+* 2015 The Mathematical Contest in Modeling, Second Prize, Hubei Industrial and Applied Mathematics Society.
+* 2013 National Scholarship (5 %), Ministry of Education of the P. R. of China.
+
 
 Work experience
 ======
@@ -36,25 +49,3 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Selected Awards
-======
-* In his undergraduate study, he received the National Scholarship (5 %, in 2013), LeiJun Scholarship (1 %, in 2015), the second prize on 2015 National Electronics Design Contest, the second prize on 2015 Mathematics Modeling,  CSC Scholarship for undergraduate (5 %, in 2016). He was awarded excellent graduate (top 1 %) of Hubei Province in 2016. During his graduate study, he received the Hengrun Scholarship from Tsinghua University. In 2019, he received a scholarship from the CSC to visit the University of Edinburgh. 
