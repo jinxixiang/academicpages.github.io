@@ -7,14 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jinxi Xiang/ Site Title"
+title                    : "Jinxi Xiang (项进喜)"
 title_separator          : "-"
-name                     : &name "Jinxi Xiang"
-description              : &description "In 2016, I received a B.S. degree from Wuhan University, China. From Jan. 2016 to May 2016, I visited the University College Dublin, Ireland, as an exchange student. After that, I started my Ph.D. program in Measurement Science and Technology with Tsinghua University, supervised by Prof. Yonggui Dong. From Sept. 2019 to Sept. 2020, sponsored by CSC, I will be visiting the University of Edinburgh, UK. My research interests include capacitive sensing, magnetic induction sensing, and tomography.
-"
-url                      : https://jinxixiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jinxixiang.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jinxi Xiang"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Beijing, China"
+  location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -310,5 +309,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-theme: jekyll-theme-minimal
