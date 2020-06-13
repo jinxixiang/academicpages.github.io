@@ -22,6 +22,7 @@ Selected Awards
 * 2020 Student Travel Award, IEEE International Instrumentation and Measurement Technology Conference.
 * 2019 Hengrun Scholarship, Tsinghua University.
 * 2019 Joint Ph.D. Scholarship, China Scholarship Council.
+* 2016 Outstanding Graduate Award, Wuhan University.
 * 2015 LeiJun Scholarship (1 %), Wuhan University.
 * 2015 Outstanding Undergraduate Scholarship, China Scholarship Council.
 * 2015 The National Electronics Design Contest, Second Prize, Ministry of Education of the P. R. of China.
