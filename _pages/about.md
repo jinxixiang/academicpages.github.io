@@ -13,6 +13,19 @@ I am a Ph.D. student with Department of Precision Instrument, Tsinghua Universit
 My undergraduate study allowed me a slight glimpse into the magic of sensing principle, signal conditioning, and instrumentation. This multi-discipline subject, covering a wide spectrum of optics, machinery, electronics, and mathematics, equipped me with a broad vision of research.  Driven by the huge power of innovation, I made up my mind to pursue a Ph.D. degree at Tsinghua University in Instrumentation Science and Technology, with a primary focus on Electromagnetic Tomography for biomedical Imaging at present. Through the doctoral study, my target is not only to promote the development of unobtrusive and flexible instrumentations in biomedical applications,  but also to gain capacities such as critical thinking, project management,  and dedication to research.
 
 
+Journals
+======
+* Xiang, J., Dong, Y., Zhang, M. and Li, Y., 2019. Design of a Magnetic Induction Tomography System by Gradiometer Coils for Conductive Fluid Imaging. IEEE Access, 7, pp.56733-56744.
+* Xiang, J., Dong, Y., Xue, X. and Xiong, H., 2018. Electronics of a wearable ECG with level crossing sampling and human body communication. IEEE transactions on biomedical circuits and systems, 13(1), pp.68-79.
+* Hou, Z., Xiang, J., Dong, Y., Xue, X., Xiong, H. and Yang, B., 2018. Capturing Electrocardiogram Signals from Chairs by Multiple Capacitively Coupled Unipolar Electrodes. Sensors, 18(9), p.2835.
+* Hou, Z., Dong, Y., Xiang, J., Li, X. and Yang, B., 2018. A real-time QRS detection method based on phase portraits and box-scoring calculation. IEEE Sensors Journal, 18(9), pp.3694-3702.
+
+
+Conferences
+======
+* Xiang, J., Chen, Z., Dong, Y. and Yang, Y., 2020. Image Reconstruction for Multi-frequency Electromagnetic Tomography based on Multiple Measurement Vector Model. In 2020 I2MTC.
+* Xiang, J., Xiong, H. and Dong, Y., 2018, October. Magnetic induction sensing with a gradiometer coil and measurement circuit. In 2018 IEEE SENSORS (pp. 1-3). IEEE.
+
 <!-- 
 A data-driven personal website
 ======
