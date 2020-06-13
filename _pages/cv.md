@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. in Measuring & Control Technology and Instrumentations, Wuhan University. Sept. 2012 - June. 2016
-* International Exchange Student, [University College Dublin](https://www.ucd.ie/), Ireland. Jan.-May, 2016 (Sponsored by China Scholarship Council)
-* Visiting Research Student, [University of Edinburgh](https://www.ed.ac.uk/), UK. Sept. 2019 - Sept. 2020 (Sponsored by China Scholarship Council)
+* Exchange Student, [University College Dublin](https://www.ucd.ie/), Ireland. Jan.-May, 2016 (Sponsored by China Scholarship Council)
+* Visiting Student, [University of Edinburgh](https://www.ed.ac.uk/), UK. Sept. 2019 - Sept. 2020 (Sponsored by China Scholarship Council)
 * Ph.D. in Instrumentation Science, Tsinghua University, Sept. 2016-June 2020 (expected)
 
 Work experience
