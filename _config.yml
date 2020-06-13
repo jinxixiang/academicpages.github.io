@@ -82,7 +82,10 @@ analytics:
 author:
   name             : "Jinxi Xiang"
   avatar           : "edcard.JPG"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : >
+                     "PhD Student 
+                     Department of Precision Instrument
+                     Tsinghua University"
   location         : "Beijing, China. Now at Edinburgh, UK."
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

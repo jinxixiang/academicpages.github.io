@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student with [Department of Precision Instrument](http://www.dpi.tsinghua.edu.cn/), Tsinghua University, supervised by Prof. Yonggui Dong (董永贵教授) from Sept. 2016. I received my Bachelor's degree in Measuring & Control Technology and Instrumentations from [Wuhan University](https://en.whu.edu.cn/) in 2016.
+I am a Ph.D. student with [Department of Precision Instrument](http://www.dpi.tsinghua.edu.cn/), Tsinghua University, supervised by Prof. Yonggui Dong (董永贵教授) from Sept. 2016. I received my Bachelor's degree in Measuring & Control Technology and Instrumentations from [Wuhan University](https://en.whu.edu.cn/) in June 2016.
 
 A data-driven personal website
 ======
