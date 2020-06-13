@@ -14,7 +14,7 @@ Education
 * B.S., [Wuhan University](https://en.whu.edu.cn/). Sept. 2012 - June 2016
 * Exchange Student, [University College Dublin](https://www.ucd.ie/), Ireland. Jan.-May, 2016 (Sponsored by China Scholarship Council)
 * Visiting Student, [University of Edinburgh](https://www.ed.ac.uk/), UK. Sept. 2019 - Sept. 2020 (Sponsored by China Scholarship Council)
-* Ph.D. in Instrumentation Science, [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm), Sept. 2016-June 2020 (expected)
+* Ph.D. in Instrumentation Science, [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm), Sept. 2016-June 2021 (expected)
 
 Work experience
 ======
