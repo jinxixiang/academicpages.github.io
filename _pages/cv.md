@@ -21,7 +21,7 @@ Selected Awards
 ======
 * 2020 Student Travel Award, IEEE International Instrumentation and Measurement Technology Conference.
 * 2019 Hengrun Scholarship, Tsinghua University.
-* 2019 Joint Ph.D. scholarship, China Scholarship Council.
+* 2019 Joint Ph.D. Scholarship, China Scholarship Council.
 * 2015 LeiJun Scholarship (1 %), Wuhan University.
 * 2015 Outstanding Undergraduate Scholarship, China Scholarship Council.
 * 2015 The National Electronics Design Contest, Second Prize, Ministry of Education of the P. R. of China.
@@ -29,23 +29,14 @@ Selected Awards
 * 2013 National Scholarship (5 %), Ministry of Education of the P. R. of China.
 
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Core Courses
+=====
+* Undergraduate (GPA: 3.73/4.0, Ranking: 1/49) Advanced Mathematics, Linear Algebra, Signal and Linear System, Stochastic Mathematics, Measuring and Control Circuit, Principle of Automation Control, Modeling and Simulation, Bio-instrumentation.
+* Graduate (GPA: 3.0) Advanced Numerical, Applied Stochastic Processes, Modern Method for Optimal Calculation, System Identification, Modern Sensing Technology, Machine Learning, Test and Measurement Technology, Introduction to Modern Control and Methods.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Language: Matlab, Python, C/C++, LabView, Verilog/VHDL 
+* Electronics Design: Altium Design, Cadence
+* Language: Mandarin, Cantonese, English (TOEFL 103) 
+* Others: Solidworks, Latex
