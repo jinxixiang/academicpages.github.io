@@ -10,8 +10,13 @@ redirect_from:
 
 I am a Ph.D. student with the Department of Precision Instrument, Tsinghua University, supervised by Prof. Yonggui Dong (董永贵教授). My research interests include capacitive/inductive sensing, electromagnetic tomography, and computational imaging. I am honored to do research with Dr. [Yunjie Yang](https://www.yangresearchgroup.com/) at the University of Edinburgh for one year. I also work closely with Dr.[Yi Li](https://scholar.google.com/citations?user=G_kt44cAAAAJ&hl=en), Dr. [Maomao Zhang](https://scholar.google.com/citations?user=Mm9evoIAAAAJ&hl=en), and Dr. [Lu Ma](https://scholar.google.com/citations?user=UnoD1i0AAAAJ&hl=en).
 
+My study allowed me a slight glimpse into the magic of sensing principle, signal conditioning, and instrumentation. This multi-discipline subject, covering a wide spectrum of optics, machinery, electronics, and mathematics, equipped me with a broad vision of research.  Through the doctoral study, my target is not only to promote the development of unobtrusive and flexible instrumentations in biomedical applications,  but also to gain capacities such as critical thinking, project management,  and dedication to research.
 
-My undergraduate study allowed me a slight glimpse into the magic of sensing principle, signal conditioning, and instrumentation. This multi-discipline subject, covering a wide spectrum of optics, machinery, electronics, and mathematics, equipped me with a broad vision of research.  Driven by the huge power of innovation, I made up my mind to pursue a Ph.D. degree at Tsinghua University in Instrumentation Science and Technology, with a primary focus on Electromagnetic Tomography for biomedical Imaging at present. Through the doctoral study, my target is not only to promote the development of unobtrusive and flexible instrumentations in biomedical applications,  but also to gain capacities such as critical thinking, project management,  and dedication to research.
+
+News
+======
+[12/2020] I am glad to get the internship at SenseTime, Beijing, working on smart health AI.
+[10/2020] I finished my joint Ph.D. program at the University of Edinburgh. I would like to thank my supervisor, Dr. Yang, for his help and inspiration towards my research.
 
 
 Journals
