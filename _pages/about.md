@@ -15,8 +15,8 @@ My study allowed me a slight glimpse into the magic of sensing principle, signal
 
 News
 ======
-[12/2020] I am glad to get the internship at [SenseTime](https://www.sensetime.com/en), Beijing, working on smart health AI.
-[10/2020] I finished my joint Ph.D. program at the University of Edinburgh. I would like to thank my supervisor, Dr. Yang, for his help and inspiration towards my research.
+* [12/2020] I am glad to get the internship at [SenseTime](https://www.sensetime.com/en), Beijing, working on smart health AI.
+* [10/2020] I finished my joint Ph.D. program at the University of Edinburgh. I would like to thank my supervisor, Dr. Yang, for his help and inspiration towards my research.
 
 
 Journals
