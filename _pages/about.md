@@ -22,7 +22,7 @@ News
 
 Journals
 ======
-* **Xiang, J.**, Dong, Y. and Yang, Y., 2021. FISTA-Net: Learning A Fast Iterative Shrinkage Thresholding Network for Inverse Problems in Imaging. *IEEE Transactions on Medical Imaging* (Accepted) [pdf](http://jinxixiang.github.io/files/FISTANet_2021_TMI)
+* **Xiang, J.**, Dong, Y. and Yang, Y., 2021. FISTA-Net: Learning A Fast Iterative Shrinkage Thresholding Network for Inverse Problems in Imaging. *IEEE Transactions on Medical Imaging* (Accepted) [pdf](http://jinxixiang.github.io/files/FISTANet_2021_TMI.pdf)
 * **Xiang, J.**, Dong, Y. and Yang, Y., 2020. Multi-frequency Electromagnetic Tomography for Acute Stroke Detection Using Frequency Constrained Sparse Bayesian Learning. *IEEE Transactions on Medical Imaging* 39, pp.4102-4112. [pdf](http://jinxixiang.github.io/files/FCSBL_2020_TMI.pdf)
 * **Xiang, J.**, Dong, Y., Zhang, M. and Li, Y., 2019. Design of a Magnetic Induction Tomography System by Gradiometer Coils for Conductive Fluid Imaging. *IEEE Access*, 7, pp.56733-56744. [pdf](http://jinxixiang.github.io/files/2019-Access.pdf)
 * **Xiang, J.**, Dong, Y., Xue, X. and Xiong, H., 2018. Electronics of a wearable ECG with level crossing sampling and human body communication. *IEEE transactions on biomedical circuits and systems*, 13(1), pp.68-79. [pdf](http://jinxixiang.github.io/files/2018-TBioCAS.pdf)
