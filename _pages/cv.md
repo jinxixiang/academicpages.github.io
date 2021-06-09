@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Instrumentation Science, [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm). / Sept. 2016-June 2021 (expected)
+* Ph.D. in Instrumentation Science, [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm). / Sept. 2016-June 2021
 * Visiting student, [University of Edinburgh](https://www.ed.ac.uk/), UK. / Sept. 2019 - Sept. 2020 (Sponsored by China Scholarship Council)
 * Exchange student, [University College Dublin](https://www.ucd.ie/), Ireland. / Jan.-May, 2016 (Sponsored by China Scholarship Council)
 * Bachelor's degree, [Wuhan University](https://en.whu.edu.cn/). / Sept. 2012 - June 2016
