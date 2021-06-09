@@ -8,15 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student with the Department of Precision Instrument, Tsinghua University, supervised by Prof. Yonggui Dong (董永贵教授). My research interests include capacitive/inductive sensing, electromagnetic tomography, and computational imaging. I am honored to do research with Dr. [Yunjie Yang](https://www.yangresearchgroup.com/) at the University of Edinburgh for one year. I also work closely with Dr.[Yi Li](https://scholar.google.com/citations?user=G_kt44cAAAAJ&hl=en), Dr. [Maomao Zhang](https://scholar.google.com/citations?user=Mm9evoIAAAAJ&hl=en), and Dr. [Lu Ma](https://scholar.google.com/citations?user=UnoD1i0AAAAJ&hl=en).
 
-My study allowed me a slight glimpse into the magic of sensing principle, signal conditioning, and instrumentation. This multi-discipline subject, covering a wide spectrum of optics, machinery, electronics, and mathematics, equipped me with a broad vision of research.  Through the doctoral study, my target is not only to promote the development of unobtrusive and flexible instrumentations in biomedical applications,  but also to gain capacities such as critical thinking, project management,  and dedication to research.
+I am now a senior engineer at Tencent Medical AI, Shenzhen, China. I obtained my Ph.D. from Tsinghua University, supervised by Prof. Yonggui Dong in June 2021. Before that, I graduated from Wuhan University with a B. Eng.
+
+I visited the University of Edinburgh (2019-2020) under the supervision of Dr. [Yunjie Yang](https://www.yangresearchgroup.com/), and University College Dublin (2016) sponsored by China Scholarship Council. I was a research intern at SenseTime Research supervised by Dr. Qing Xia. My research interests include biomedical imaging and medical image analysis. In concrete, I develop accurate and effective algorithms for inverse problems in imaging and further make high-level analyses such as segmentation and detection.  I also work closely with Dr.[Yi Li](https://scholar.google.com/citations?user=G_kt44cAAAAJ&hl=en), Dr. [Maomao Zhang](https://scholar.google.com/citations?user=Mm9evoIAAAAJ&hl=en), and Dr. [Lu Ma](https://scholar.google.com/citations?user=UnoD1i0AAAAJ&hl=en).
+
 
 
 News
 ======
+* [06/2021] I join Tencent Medical AI as a senior engineer. 
 * [01/2021] One paper accepted to TMI (model-based learning for inverse problem). 
-* [12/2020] I am glad to get the internship at [SenseTime](https://www.sensetime.com/en), Beijing, working on smart health AI.
+* [12/2020] I am glad to get the internship at [SenseTime](https://www.sensetime.com/en), Beijing, working on healthcare AI.
 * [10/2020] I finished my joint Ph.D. program at the University of Edinburgh. I would like to thank my supervisor, Dr. Yang, for his help and inspiration towards my research.
 
 
